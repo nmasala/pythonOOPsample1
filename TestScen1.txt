@@ -1,0 +1,5 @@
+1: 5 5
+2: 1 2 N
+3: 3 3 E
+4: L M L M L M L M M
+5: M M R M M R M R R M
